@@ -1,7 +1,7 @@
 body {
     background-image: url(https://www.elmens.com/wp-content/uploads/2021/01/Git-GUI-Client-for-Windows-Mac-and-Linux-Developer.jpg);
     background-repeat: no-repeat;
-    background-size: 1400px 600px;
+    background-size: 1700px 800px;
     object-fit:cover;
     
 }
@@ -20,7 +20,7 @@ h1 {
 p {
     color: rgb(225, 216, 216);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
 }
 

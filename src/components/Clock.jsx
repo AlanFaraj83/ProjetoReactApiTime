@@ -44,7 +44,7 @@ export default class Clock extends Component {
         return (
             <div>
                 <h1>Desenvolvedor fullStack junior {this.state.reactMsg}</h1>
-                <p>Aluno atual da Innovation Alan Faraj contando dias, horas e minutos para migrar na area de seu sonho e crescer cada vez mais na carrera. </p>
+                <p>Aluno atual da Innovation Alan Faraj contando dias, horas e minutos para migrar na area de seu sonho e crescer cada vez mais na carreira. </p>
                 <h2> Data: {this.state.date.toLocaleString()}</h2>
                 <button onClick={this.reactMsgChange}>Amazing</button>
                 {/* <button onClick={this.reactMsgChange2}>Incrivel</button> */}
